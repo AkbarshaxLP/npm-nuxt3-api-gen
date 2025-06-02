@@ -1,0 +1,6 @@
+{
+  "swaggerUrl": "swaggerUrl",
+  "outputFile": "apiMethods.ts",
+  "outputPath": "../api/",
+  "rmMethodPrefix": true
+}
