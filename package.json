@@ -23,6 +23,11 @@
     "api-sdk-generation",
     "generation"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AkbarshaxLP/npm-nuxt3-api-gen.git"
+  },
+  "homepage": "https://github.com/AkbarshaxLP/npm-nuxt3-api-gen",
   "author": "akbarshax.lp@gmail.com",
   "license": "ISC",
   "description": "",
